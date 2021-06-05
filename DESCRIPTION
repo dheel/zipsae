@@ -1,0 +1,14 @@
+Package: zipsae
+Type: Package
+Title: Small Area Estimation with Zero-Inflated Model
+Version: 1.0.0
+Author: Fadheel Wisnu Utomo, Ika Yuni Wulansari
+Maintainer: Fadheel Wisnu Utomo <221709671@stis.ac.id>
+Description: This function produce EBLUPs for Zero-Inflated data and its Relative Standard Error. Small Area Estimation with Zero-Inflated Model (SAE-ZIP) is a model developed for Zero-Inflated data that can lead us to overdispersion situation. To handle this kind of situation, this model is created. The model in this package is based on Small Area Estimation with Zero-Inflated Poisson model proposed by Dian Christien Arisona (2018). For the data sample itself, we use combination method between Roberto Benavent and Domingo Morales (2015) and Sabine Krieg, Harm Jan Boonstra and Marc Smeets (2016).
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
+Imports: stats
+Depends: 
+    R (>= 2.10)
