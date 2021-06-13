@@ -1,7 +1,7 @@
 Package: zipsae
 Type: Package
 Title: Small Area Estimation with Zero-Inflated Model
-Version: 1.0.1
+Version: 1.0.2
 Authors@R: 
     c(person(given = "Fadheel Wisnu",
            family = "Utomo",
