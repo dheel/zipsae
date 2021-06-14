@@ -12,12 +12,13 @@ Area Estimation with Zero-Inflated Model (SAE-ZIP) is a model developed
 for Zero-Inflated data that can lead us to overdispersion situation. To
 handle this kind of situation, this model is created. The model in this
 package is based on Small Area Estimation with Zero-Inflated Poisson
-model proposed by Dian Christien Arisona
-(2018)<https://repository.ipb.ac.id/handle/123456789/92308>. For the
-data sample itself, we use combination method between Roberto Benavent
-and Domingo Morales (2015)<doi:10.1016/j.csda.2015.07.013> and Sabine
-Krieg, Harm Jan Boonstra and Marc Smeets
-(2016)<doi:10.1515/jos-2016-0051>.
+model proposed by [Dian Christien Arisona
+(2018)](https://repository.ipb.ac.id/handle/123456789/92308). For the
+data sample itself, we use combination method between [Roberto Benavent
+and Domingo Morales
+(2015)](https://www.sciencedirect.com/science/article/pii/S016794731500170X)
+and [Sabine Krieg, Harm Jan Boonstra and Marc Smeets
+(2016)](https://www.researchgate.net/publication/310818136_Small-Area_Estimation_with_Zero-Inflated_Data_-_a_Simulation_Study).
 
 ## Authors
 
@@ -31,7 +32,7 @@ Fadheel Wisnu Utomo <221709671@stis.ac.id>
 
 You can install the released version of zipsae from
 [CRAN](https://CRAN.R-project.org) or find on my github repository
-[Github](https://github.com/dheel)
+[Github](https://github.com/dheel/zipsae)
 
 ## Example
 
