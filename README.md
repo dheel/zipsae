@@ -26,7 +26,7 @@ Fadheel Wisnu Utomo, Ika Yuni Wulansari
 
 ## Maintainer
 
-Fadheel Wisnu Utomo <221709671@stis.ac.id>
+Fadheel Wisnu Utomo <fadheelwisnu@bps.go.id>
 
 ## Installation
 
